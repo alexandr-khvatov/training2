@@ -12,7 +12,8 @@ public class HelloController {
         return """
                 {
                     "data": {
-                        "message": "Hello controller"
+                        "message": "Hello controller",
+                        "test-message": "Hello controller",
                     }
                 }
                 """;
