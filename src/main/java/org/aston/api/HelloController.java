@@ -13,7 +13,7 @@ public class HelloController {
                 {
                     "data": {
                         "message": "Hello controller",
-                        "test-message": "Hello controller8",
+                        "test-message": "Hello controller9",
                     }
                 }
                 """;
