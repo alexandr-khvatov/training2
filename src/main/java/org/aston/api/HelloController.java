@@ -15,6 +15,7 @@ public class HelloController {
                         "message": "Hello controller",
                         "test-message": "Hello controller13",
                          "test-message1": "Hello controller",
+                         "test-message1": "Hello controller",
                     }
                 }
                 """;
